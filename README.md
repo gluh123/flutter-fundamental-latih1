@@ -6,7 +6,7 @@ Galuh Fitriyani
 A new Flutter project.
 
 Praktikum1
-membuat project flutter baru dengan menekan CRTRL + SHIFT + P, lalu berikan nama roject dan tunggu sebentar, maka akan muncul pesan "Your Flutter Project is ready!" jika project sudah berhasil dibuat
+membuat project flutter baru dengan menekan CTRL + SHIFT + P, lalu berikan nama project dan tunggu sebentar, maka akan muncul pesan "Your Flutter Project is ready!" jika project sudah berhasil dibuat
 ![Screenshot Praktikum 1](images/pk1.png)
 praktikum 2
 menampilkan gambar hasil capture di perangkat android saya, bukti bahwa sudah terhubung
