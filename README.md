@@ -28,7 +28,7 @@ mengubah isi widget atau isi textwidget
 memberikan gambar pada isi widget
 ![Screenshot Praktikum 4](images/pk4lk2.png)
 
-saya tidak mengerti mengapa di device tidak muncul gambar padahal di browser muncul, sudah saya cari permasalahan nya pun tetap tidak mau  muncul gambar nya
+saya tidak mengerti mengapa di device android tidak muncul gambar padahal di browser muncul, sudah saya cari permasalahan nya pun tetap tidak mau  muncul gambar nya
 ![Screenshot Praktikum 4](images/ss3.jpg)
 
 Praktikum 5
